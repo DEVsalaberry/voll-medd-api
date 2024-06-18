@@ -1,4 +1,4 @@
-# Vollmed API
+# API REST com Spring Boot
 
 # Descrição
 - A Vollmed API é uma aplicação desenvolvida em Java utilizando o framework Spring Boot. Ela fornece uma solução para gerenciar médicos, pacientes e consultas médicas. A aplicação inclui funcionalidades de autenticação e autorização com JWT, gerenciamento de entidades (CRUD) e persistência de dados em um banco de dados MySQL.
